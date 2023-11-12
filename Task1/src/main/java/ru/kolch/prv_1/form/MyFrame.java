@@ -7,7 +7,17 @@ import ru.kolch.prv_1.sort.BubbleSorter;
 import ru.kolch.prv_1.sort.QuickSorter;
 import ru.kolch.prv_1.sort.ShellSorter;
 
-import javax.swing.*;
+import javax.swing.ButtonGroup;
+import javax.swing.JComboBox;
+import javax.swing.JComponent;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JList;
+import javax.swing.JRadioButton;
+import javax.swing.JScrollPane;
+import javax.swing.JTextField;
+import javax.swing.SwingUtilities;
+import javax.swing.WindowConstants;
 import java.awt.Dimension;
 import java.awt.Font;
 import java.awt.Toolkit;
