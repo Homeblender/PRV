@@ -1,4 +1,4 @@
-package ru.kolch.prv_2;
+package ru.kolch.prv_3;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
